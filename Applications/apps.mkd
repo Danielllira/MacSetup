@@ -1,0 +1,15 @@
+- Notion
+- Brew
+- VsCode
+- Warp Terminal
+- Dank Mono Font
+- ChatGpt
+- Raycast
+- Rectangle
+- Keyboard Clean Tool
+- Discord
+- Figma
+- Arc Browser
+- ScreenStudio
+- DynamicLakePro
+- Hidden Bar
